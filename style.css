@@ -5,6 +5,7 @@
 }
 body {
     background-color: var(--cor-de-fundo);
+    --branco: #FFFFFF;
 }
 h1 {
     background-color: white;
